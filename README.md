@@ -1,0 +1,1 @@
+I chose the Picsum Photos API because it provides high-quality, random nature images, making the webpage visually engaging and refreshing. The API access is great—no authentication required and fast response times. This fits perfectly for creating dynamic content and experimenting with nature-themed designs
